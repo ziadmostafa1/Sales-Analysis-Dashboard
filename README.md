@@ -38,10 +38,10 @@ This project aims to enhance internet sales reporting for a company, moving from
 
 ## Data Extraction Queries (SQL Server)
 
-- [FACT_InternetSales Query](link-to-query-file)
-- [DIM_Calendar Query](link-to-query-file)
-- [DIM_Customers Query](link-to-query-file)
-- [DIM_Products Query](link-to-query-file)
+- [FACT_InternetSales Query](/Power BI + SQL Project/Data Transformation/FACT_InternetSales.sql)
+- [DIM_Calendar Query](/Power BI + SQL Project/Data Transformation/DIM_Calendar.sql)
+- [DIM_Customers Query](/Power BI + SQL Project/Data Transformation/DIM_Customers.sql)
+- [DIM_Products Query](/Power BI + SQL Project/Data Transformation/DIM_Products.sql)
 
 ## Power BI Setup
 
@@ -53,15 +53,21 @@ This project aims to enhance internet sales reporting for a company, moving from
 
 ### 1. Sales Overview
 
+![Sales Overview](Sales Overview.png)
+
 - Custom visuals presenting sales data over time.
 - Graphs and KPIs comparing against the budget.
 
 ### 2. Customer Details
 
+![Customer Details](Customer Details.png)
+
 - Detailed information on internet sales per customer.
 - Data filtering for each customer.
 
 ### 3. Product Details
+
+![Product Details](Product Details.png)
 
 - Detailed information on internet sales per product.
 - Data filtering for each product.
