@@ -72,6 +72,28 @@ This project aims to enhance internet sales reporting for a company, moving from
 - Detailed information on internet sales per product.
 - Data filtering for each product.
 
+## Data Warehouse
+
+I used the AdventureWorksDW2019 data warehouse for SQL Server, provided by Microsoft. The AdventureWorksDW2019 data warehouse serves as the source for extracting necessary data for the sales analysis.
+
+You can download the AdventureWorksDW2019 backup file from the following link:
+[AdventureWorksDW2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
+
+To add this data warehouse to your SQL Server instance, you can follow these steps:
+
+1. Download the AdventureWorksDW2019.bak file from the link above.
+2. Install and open SQL Server Management Studio (SSMS).
+3. Connect to your SQL Server instance.
+4. In SSMS, right-click on "Databases" and select "Restore Database..."
+5. Choose the "Device" option and browse to the location where you saved the AdventureWorksDW2019.bak file.
+6. Click "OK" to restore the database.
+
+For detailed instructions, you can refer to the official Microsoft documentation:
+[AdventureWorks Sample Databases - Install and configure](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+
+Make sure to adjust the paths and details based on your project's specifics. This section provides users with information on the data warehouse used and guides them on how to set it up in their DBMS.
+
+
 ## How to Use
 
 1. Clone the repository.
