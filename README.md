@@ -53,21 +53,21 @@ This project aims to enhance internet sales reporting for a company, moving from
 
 ### 1. Sales Overview
 
-![Sales Overview](Sales Overview.png)
+![SalesOverview](Sales%20Overview.png)
 
 - Custom visuals presenting sales data over time.
 - Graphs and KPIs comparing against the budget.
 
 ### 2. Customer Details
 
-![Customer Details](Customer Details.png)
+![Customer Details](Customer%20Details.png)
 
 - Detailed information on internet sales per customer.
 - Data filtering for each customer.
 
 ### 3. Product Details
 
-![Product Details](Product Details.png)
+![Product Details](Product%20Details.png)
 
 - Detailed information on internet sales per product.
 - Data filtering for each product.
