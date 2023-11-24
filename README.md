@@ -38,10 +38,10 @@ This project aims to enhance internet sales reporting for a company, moving from
 
 ## Data Extraction Queries (SQL Server)
 
-- [FACT_InternetSales Query](/Power BI + SQL Project/Data Transformation/FACT_InternetSales.sql)
-- [DIM_Calendar Query](/Power BI + SQL Project/Data Transformation/DIM_Calendar.sql)
-- [DIM_Customers Query](/Power BI + SQL Project/Data Transformation/DIM_Customers.sql)
-- [DIM_Products Query](/Power BI + SQL Project/Data Transformation/DIM_Products.sql)
+- [FACT_InternetSales Query](/Power%20BI%20+%20SQL%20Project/Data%20Transformation/FACT_InternetSales.sql)
+- [DIM_Calendar Query](/Power%20BI%20+%20SQL%20Project/Data%20Transformation/DIM_Calendar.sql)
+- [DIM_Customers Query](/Power%20BI%20+%20SQL%20Project/Data%20Transformation/DIM_Customers.sql)
+- [DIM_Products Query](/Power%20BI%20+%20SQL%20Project/Data%20Transformation/DIM_Products.sql)
 
 ## Power BI Setup
 
