@@ -91,6 +91,8 @@ To add this data warehouse to your SQL Server instance, you can follow these ste
 For detailed instructions, you can refer to the official Microsoft documentation:
 [AdventureWorks Sample Databases - Install and configure](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
+use this query to update the data [Update_AdventureWorksDW_Data.sql](Update_AdventureWorksDW_Data.sql)
+
 Make sure to adjust the paths and details based on your project's specifics. This section provides users with information on the data warehouse used and guides them on how to set it up in their DBMS.
 
 
