@@ -14,15 +14,6 @@ Description:
 
  
 
-Author: 
-
----------- David Alzamendi (https://techtalkcorner.com) 
-
- 
-
-Date: 
-
----------- 19/11/2020 
 
 */ 
 
