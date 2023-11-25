@@ -53,7 +53,7 @@ This project aims to enhance internet sales reporting for a company, moving from
 
 ### 1. Sales Overview
 
-![SalesOverview](Sales%20Overview1.png)
+![SalesOverview](Sales%20Overview2.png)
 
 - Custom visuals presenting sales data over time.
 - Graphs and KPIs comparing against the budget.
